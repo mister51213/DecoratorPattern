@@ -1,0 +1,5 @@
+﻿  ModLaserSight.cpp
+c:\users\n\documents\visual studio 2015\projects\decoratorpattern\decoratorpattern\modlasersight.cpp(12): error C2065: 'description': undeclared identifier
+  main.cpp
+  AssaultRifle.cpp
+  Generating Code...
